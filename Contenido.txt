@@ -1,6 +1,6 @@
 Este es el documento de ejemplo.
 Línea 1
-Línea 2
+Línea 2 modificada por usuario X
 Línea 3
 Línea 4
 Commit inicial del documento
